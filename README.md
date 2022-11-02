@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Panda115
-- 👀 I’m interested in Front-end Framework & Back-end Framework.
-- 🌱 I’m currently learning BlockChain Tech.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+A proficient blockchain developer with years of experience, interested in contributing expertise in web and blockchain development to Smart Tech Inc. Capable of excelling as part of a team or individually in a fast-paced environment. Deeply knowledgeable in distributed ledger, blockchain security, blockchain architecture patterns, and different blockchain standards and ecosystems. Disseminated information and education regarding cryptocurrency and blockchain technology, and shared unmatched knowledge on decentralized technologies. Handled all types of programming languages such as C#, HTML, JavaScript, PHP, CSS, Python, etc and the frameworks, and also graphic design, worked with Git/Github, developed server-side and front-end software, and offered issue tracking and customer support. Launched token sales, developed time-based rules for backing up and restoring system and MySQL, and performed maintenance tasks on administrative Linux server. Managed, mentored, and developed other programmers, while writing, planning, and executing the migration of more than 37 website services to cloud-based services.
 
-<!---
-Panda115/Panda115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I try to lead all projects to success through close cooperation with customers and familiar communication. We do all the work with a polite attitude, thinking that the price and difficulty of the work are not the basic issues, but the excellent results that can bring out the maximum satisfaction of the customer are the priority. A development team consisting of members with a high level of practical experience and abundant technical capabilities in the industry carefully handles each case.
