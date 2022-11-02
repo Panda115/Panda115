@@ -2,3 +2,6 @@ A proficient blockchain developer with years of experience, interested in contri
 
 I try to lead all projects to success through close cooperation with customers and familiar communication. We do all the work with a polite attitude, thinking that the price and difficulty of the work are not the basic issues, but the excellent results that can bring out the maximum satisfaction of the customer are the priority. A development team consisting of members with a high level of practical experience and abundant technical capabilities in the industry carefully handles each case.
 
+![image](https://user-images.githubusercontent.com/117127543/199450385-25d25cf1-3730-4563-900e-1c4e1f037e18.png)
+
+
