@@ -21,10 +21,6 @@ I try to lead all projects to success through close cooperation with customers a
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda115&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=36&card_width=320px&border_radius=20px&show_icons=true" alt="beautiful-github-profile-hi-with-handshake"/>
 
-<img src="https://user-images.githubusercontent.com/81764479/139946842-981c8dad-0756-45e4-94e3-cecf05ef5406.gif" data-w="400" data-h="400" data-xblocker="passed" style="visibility: visible; width: 40px; height: 40px; margin: 0px;">
-
-<img src="https://user-images.githubusercontent.com/81764479/139947974-d0732d37-8fd7-4deb-a1e7-2d818a06db0a.gif" data-xblocker="passed" style="visibility: visible; width: 30px; height: 30px; margin: 0px;">
-
 <b> Feel free to contact me if you have an Idea or project</b> 
 
 🚀 <b>Full-Stack Engineer</b><br/>
@@ -61,9 +57,6 @@ I try to lead all projects to success through close cooperation with customers a
   <code><img width="55" height="55" src="https://user-images.githubusercontent.com/81764479/140014281-98e75337-22c2-4129-9462-8ca159947b0d.PNG"></code>
  <span>...</span>
 </p>
-
-<br />
-<img align="left" src="https://user-images.githubusercontent.com/81764479/139954958-595035b3-7f4b-4bf2-a263-43d7b82cfdca.gif" alt="beautiful-github-profile-hi-with-handshake"/>
 
 <br>
 
