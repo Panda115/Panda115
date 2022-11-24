@@ -5,9 +5,7 @@ I try to lead all projects to success through close cooperation with customers a
 <a href="mailto:panda.dev1115@gmail.com">Email to</a>
 <br>
 <a href="https://join.skype.com/invite/live:.cid.f66fc32ef78ceae3" rel="nofollow">Skype to</a>
-<br>
-<hr>
-<br>
+
 ![image](https://user-images.githubusercontent.com/117127543/199450385-25d25cf1-3730-4563-900e-1c4e1f037e18.png)
 
 
