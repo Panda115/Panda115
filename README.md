@@ -68,5 +68,6 @@ I pride myself on being detail-oriented, analytical, and driven.
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda115&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=36&card_width=320px&border_radius=20px&show_icons=true" alt="beautiful-github-profile-hi-with-handshake"/>
 
 <br>
+<br/>
 
 <img alt="Panda115's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Panda115&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
