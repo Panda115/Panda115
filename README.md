@@ -21,6 +21,7 @@ I pride myself on being detail-oriented, analytical, and driven.
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <h1 align="center"></h1>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda115&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=36&card_width=320px&border_radius=20px&show_icons=true" alt="beautiful-github-profile-hi-with-handshake"/>
 <br/>
 <br/>
 <h2 font-weight="bold">Technical Stack</h2>
@@ -64,10 +65,5 @@ I pride myself on being detail-oriented, analytical, and driven.
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" style="max-width: 100%;"></a></p>
 
 <br>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda115&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=36&card_width=320px&border_radius=20px&show_icons=true" alt="beautiful-github-profile-hi-with-handshake"/>
-
-<br>
-<br/>
 
 <img alt="Panda115's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Panda115&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
